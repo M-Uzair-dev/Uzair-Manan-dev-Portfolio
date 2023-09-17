@@ -34,8 +34,8 @@ function openLinkg3inNewTab() {
   window.open("https://github.com/M-Uzair-dev/foodfunday", "_blank");
 }
 function openLinkp4inNewTab() {
-  window.open("https://fitappweb.vercel.app", "_blank");
+  window.open("https://flavorfusionorg.vercel.app", "_blank");
 }
 function openLinkg4inNewTab() {
-  window.open("https://github.com/M-Uzair-dev/fitapp", "_blank");
+  window.open("https://github.com/M-Uzair-dev/Flavor-fusion", "_blank");
 }
